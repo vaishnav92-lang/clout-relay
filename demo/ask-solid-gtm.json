@@ -1,8 +1,30 @@
-{"id":"ask-001","from":"Clout (Vaishnav — Solid founding GTM search)","created":"2026-08-07",
-"ask_type":"both","role_title":"Founding GTM hire — Solid (AI agent platform, SF, 5-person team)",
-"structured_ask":{
- "question_verbatim":"Who in your network could be — or would know — a founding growth/GTM hire for a 5-person SF AI-agent startup? SMB/prosumer self-serve motion ($80-640/mo, PLG). Think: early growth hires at prosumer AI tools, GTM engineers, ex-founders of SMB-facing AI startups. NOT big-co growth people.",
- "domain":"prosumer/SMB AI tools, PLG self-serve","capabilities":["founding-growth motion","content/product-led funnel building","comfort at 5-person scale"],
- "constraints":["Bay Area preferred, remote if exceptional"],
- "archetypes":["early growth hire at PLG AI tool","GTM engineer (Clay-style)","automation-agency operator","ex-founder SMB AI"]},
-"response_options":{"default":"counts_only","note":"names/context only if owner escalates; contact info never (schema has no field)"}}
+{
+ "id": "ask-001",
+ "from": "Clout (Vaishnav \u2014 Solid founding GTM search)",
+ "created": "2026-08-07",
+ "ask_type": "both",
+ "role_title": "Founding GTM hire \u2014 Solid (AI agent platform, SF, 5-person team)",
+ "structured_ask": {
+  "question_verbatim": "Who in your network could be \u2014 or would know \u2014 a founding growth/GTM hire for a 5-person SF AI-agent startup? SMB/prosumer self-serve motion ($80-640/mo, PLG). Think: early growth hires at prosumer AI tools, GTM engineers, ex-founders of SMB-facing AI startups. NOT big-co growth people.",
+  "domain": "prosumer/SMB AI tools, PLG self-serve",
+  "capabilities": [
+   "founding-growth motion",
+   "content/product-led funnel building",
+   "comfort at 5-person scale"
+  ],
+  "constraints": [
+   "Bay Area preferred, remote if exceptional"
+  ],
+  "archetypes": [
+   "early growth hire at PLG AI tool",
+   "GTM engineer (Clay-style)",
+   "automation-agency operator",
+   "ex-founder SMB AI"
+  ]
+ },
+ "response_options": {
+  "default": "counts_only",
+  "note": "names/context only if owner escalates; contact info never (schema has no field)"
+ },
+ "message_from_clout": "We have one open job: founding GTM hire at Solid, a 5-person SF AI-agent startup (self-serve, $80-640/mo). May your agent search your network for people who could do this \u2014 or who'd know someone? We'll only receive what you approve."
+}
