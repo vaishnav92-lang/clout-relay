@@ -3,7 +3,7 @@
  "from": "Clout (Vaishnav \u2014 Solid founding GTM search)",
  "created": "2026-08-07",
  "ask_type": "both",
- "role_title": "Founding GTM hire \u2014 Solid (AI agent platform, SF, 5-person team)",
+ "role_title": "founding GTM / growth hire at Solid (a 5-person SF AI-agent startup, self-serve $80-640/mo)",
  "structured_ask": {
   "question_verbatim": "Who in your network could be \u2014 or would know \u2014 a founding growth/GTM hire for a 5-person SF AI-agent startup? SMB/prosumer self-serve motion ($80-640/mo, PLG). Think: early growth hires at prosumer AI tools, GTM engineers, ex-founders of SMB-facing AI startups. NOT big-co growth people.",
   "domain": "prosumer/SMB AI tools, PLG self-serve",
@@ -20,11 +20,15 @@
    "GTM engineer (Clay-style)",
    "automation-agency operator",
    "ex-founder SMB AI"
+  ],
+  "two_questions": [
+   "Who could BE this hire?",
+   "Who might KNOW good candidates?"
   ]
  },
  "response_options": {
   "default": "counts_only",
   "note": "names/context only if owner escalates; contact info never (schema has no field)"
  },
- "message_from_clout": "We have one open job: founding GTM hire at Solid, a 5-person SF AI-agent startup (self-serve, $80-640/mo). May your agent search your network for people who could do this \u2014 or who'd know someone? We'll only receive what you approve."
+ "message_from_clout": "We're currently recruiting for a founding GTM hire at Solid. Who in your network could be a good fit \u2014 someone who's built a self-serve growth motion at a small AI/SaaS company \u2014 or who might know people like that? All the search happens here on your computer; you only share what you choose."
 }
